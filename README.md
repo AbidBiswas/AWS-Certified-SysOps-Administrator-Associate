@@ -1,2 +1,7 @@
-<p style="color: blue;">This text is blue.</p>
-<p style="color: red;">This text is red.</p>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
