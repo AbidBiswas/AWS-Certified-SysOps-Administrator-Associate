@@ -1,3 +1,3 @@
 $$
-\text{\color{darkblue}{This is a Professional Headline in Dark Blue}}
+\text{\color{orange}{This is a Professional Headline}
 $$
