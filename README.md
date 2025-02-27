@@ -1,11 +1,3 @@
 $$
-\text{\color{red}{Red}}
-$$
-
-$$
-\text{\color{green}{Green}}
-$$
-
-$$
-\text{\color{blue}{Blue}}
+\This is a project folder for Penetration Testing{\color{red}{Red}}
 $$
