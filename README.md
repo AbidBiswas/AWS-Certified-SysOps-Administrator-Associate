@@ -1,5 +1,5 @@
 $$
-\huge \text{\color{orange}{AWS Certified SysOps Administrator-Associate}}
+\Huge \text{\color{orange}{AWS Certified SysOps Administrator-Associate}}
 $$
 
 
