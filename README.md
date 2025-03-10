@@ -4,7 +4,7 @@ $$
 
 
 
-### ✅ Connect Windows CMD with AWS Instance
+## ✅ Connect Windows CMD with AWS Instance
 
 To connect **Windows Command Prompt (CMD)** to an AWS EC2 instance:
 
