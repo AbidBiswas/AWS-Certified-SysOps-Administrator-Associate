@@ -23,7 +23,7 @@ After that, we have to click **connect** again. It will directly connect with th
 For practical example:
 [![Watch the video](https://img.youtube.com/vi/kzLRxVgos2M/0.jpg)](https://youtu.be/kzLRxVgos2M)
 ## ✅ How to change EC2 instance type
-Suppose we need more storage and cpu and we have to change the instance type.
+Suppose, we need more storage and cpu. For that we have to change the instance type.
 ![image](https://github.com/user-attachments/assets/d1fb53aa-c142-4e84-aa60-7f284ed9a781)
 
 ![image](https://github.com/user-attachments/assets/4d6e9bca-c436-4940-93b2-1162527fda14)
