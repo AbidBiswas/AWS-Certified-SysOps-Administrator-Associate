@@ -25,8 +25,13 @@ For practical example:
 ## ✅ How to change EC2 instance type
 Suppose we need more storage and cpu and we have to change the instance type.
 ![image](https://github.com/user-attachments/assets/d1fb53aa-c142-4e84-aa60-7f284ed9a781)
+
 ![image](https://github.com/user-attachments/assets/4d6e9bca-c436-4940-93b2-1162527fda14)
+
 ![image](https://github.com/user-attachments/assets/4d9e9a99-44b1-464a-b19d-0f4f3230e162)
+
+![image](https://github.com/user-attachments/assets/d633432b-bbab-4b3a-8c62-b43c1d264a75)
+
 
 
 
