@@ -37,6 +37,8 @@ If we do this we have to pay for this as T2 tier is not free.
 
 Our data will remain same if we switch from one EBS base system to another EBS based system as the storage technology will remain same. 
 
+## ✅ Enhanced Networking
+
 
 
 
