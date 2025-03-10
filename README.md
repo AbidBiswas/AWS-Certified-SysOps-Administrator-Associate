@@ -42,6 +42,7 @@ Our data will remain same if we switch from one EBS base system to another EBS b
 
 - If we want Enhanced networking with lower latency then we should go for ENA
 - If we have a HPC cluster then we should select EFA
+## ✅ Practical example of ENA
 
 
 
