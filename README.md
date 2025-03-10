@@ -2,10 +2,6 @@ $$
 \huge \text{\color{orange}{AWS Certified SysOps Administrator-Associate}}
 $$
 
-connect windows cmd with aws instance
-`ssh -i DemoKeyPair.pem ec2-user@3.133.112.164`
-
-
 ## 🔗 Connect Windows CMD with AWS Instance
 
 To connect your **Windows Command Prompt (CMD)** to an AWS EC2 instance, use the following command:
