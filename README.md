@@ -22,6 +22,7 @@ To connect **Windows Command Prompt (CMD)** to an AWS EC2 instance:
 After that, we have to click **connect** again. It will directly connect with the instance in the browser.
 For practical example:
 [![Watch the video](https://img.youtube.com/vi/kzLRxVgos2M/0.jpg)](https://youtu.be/kzLRxVgos2M)
+## ✅ How to change EC2 instance type
 
 
 
