@@ -33,6 +33,8 @@ Suppose, we need more storage and cpu. For that we have to change the instance t
 ![image](https://github.com/user-attachments/assets/d633432b-bbab-4b3a-8c62-b43c1d264a75)
 EBS optimized means that we are going to get better throughout and the newer generation EBS has better version throughput than previous genaration.
 
+If we do this we have to pay for this as T2 tier is not free.
+
 
 
 
