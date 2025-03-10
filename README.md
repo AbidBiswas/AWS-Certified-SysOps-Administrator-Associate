@@ -25,6 +25,7 @@ To connect your **Windows Command Prompt (CMD)** to an AWS EC2 instance, use the
 2. Navigate to the directory where the `.pem` file is located using:
    ```cmd
    cd C:\Users\YourUser\Downloads
+like this we have to edit
 
 
 
