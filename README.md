@@ -2,7 +2,7 @@ $$
 \huge \text{\color{orange}{AWS Certified SysOps Administrator-Associate}}
 $$
 
-## 🔗 Connect Windows CMD with AWS Instance
+## ✅ Connect Windows CMD with AWS Instance
 
 To connect **Windows Command Prompt (CMD)** to an AWS EC2 instance:
 
