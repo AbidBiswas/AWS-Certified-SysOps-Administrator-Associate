@@ -46,9 +46,12 @@ Our data will remain same if we switch from one EBS base system to another EBS b
 we will start a t2.micro instance and we will also create a t3 instance which is newer version instance.
 ![image](https://github.com/user-attachments/assets/0dd1d9a2-ed22-4a97-8ad7-cf334db4e6fe)
 ![image](https://github.com/user-attachments/assets/363c40ea-392a-400d-9b9b-346449431f0d)
-t3 is not a free tier. We have to pay for that.
+t3 is not a free tier. We have to pay for that. Now lets login with the t2 instance type.
 ![image](https://github.com/user-attachments/assets/3147792a-2781-4f92-96ff-a367eaef5647)
 ![image](https://github.com/user-attachments/assets/e224b24e-524c-4751-b767-2aa4dfa3ab59)
+As we can see the driver type is vif, not ena. So we must have a newer version of instance like t3.micro inorder to have a ena mechanism.
+![image](https://github.com/user-attachments/assets/9f5d048a-d6fc-42a0-9b13-faf2ad1cbd20)
+
 
 
 
