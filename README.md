@@ -1,4 +1,4 @@
 $$
-\huge \text{\color{orange}{This is a Professional Headline}}
+\huge \text{\color{orange}{AWS Certified SysOps Administrator-Associate}}
 $$
 
